@@ -4,4 +4,4 @@
 Использовал:<br>
 Spring boot, Maven, Tomcat, MySQL, Thymeleaf, HTML.
 
-User может быть Nataly, т.к. использую компьютер жены. :-)
+User в коде может быть Nataly, т.к. использую компьютер жены. :-)
