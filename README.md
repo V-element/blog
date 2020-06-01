@@ -1,7 +1,7 @@
 # Blog
-Создать веб-блог на основе Java.<br><br>
+<p>Created web blog in Java</p>
 
-Использовал:<br>
-Spring boot, Maven, Tomcat, MySQL, Thymeleaf, Bootstrap.
+<p>Used:</p>
+<p>Spring boot, Maven, Tomcat, MySQL, Thymeleaf, Bootstrap.<p>
 
-User в коде может быть Nataly, т.к. использую компьютер жены. :-)
+<p>User in code can be 'Nataly', because I use wife's laptop :-)</p>
